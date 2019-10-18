@@ -1,2 +1,3 @@
-# politica_privacidad_jam
-Política de privacidad para juego.
+# Políticas de privacidad
+Este repositorio contiene documentos con políticas de
+privacidad.
